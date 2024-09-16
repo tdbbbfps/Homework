@@ -3,6 +3,9 @@
 *font*
 ~~font~~
 
+- [ ] for unchecked checkbox
+- [x] for checked checkbox
+
 ***
 > A
 > > 1
