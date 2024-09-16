@@ -198,8 +198,9 @@ func _on_hitbox_body_entered(body: Node2D) -> void:
 	if (body.is_in_group("Trap")):
 		die()
 ```
-
-|:row1 | :row2: | row3: |
+| :--- | :---: | ---: |
+| **row1** | **row2** | **row3** |
+| --- | --- | --- |
 | 1 | 2 | 3 |
 
 VIDEO:
