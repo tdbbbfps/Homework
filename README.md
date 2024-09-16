@@ -15,7 +15,7 @@
 > > 2
 ***
 
-```gdscript=
+```gdscript
 extends CharacterBody2D
 class_name Player
 
@@ -199,20 +199,8 @@ func _on_hitbox_body_entered(body: Node2D) -> void:
 		die()
 ```
 
-**Under deveplopment**
+|:row1 | :row2: | row3: |
+| 1 | 2 | 3 |
 
-*Under deveplopment*
-
-~~Under deveplopment~~
-
-
-> 1
-> > One
-
-> > Two
-
-> 2
-> > One
-
-[![Level3 Testrun]](https://www.youtube.com/watch?v=QmkTWnSwevY)
+[![Level3 Testrun](ScreenShot.png)](https://www.youtube.com/watch?v=QmkTWnSwevY)
 ![ScreenShot](ScreenShot.png)
